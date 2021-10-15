@@ -9,8 +9,8 @@
 # Установка и использование
 
 1. Установите [Python](https://www.python.org/downloads/)
-2. Установите [requests](https://docs.python-requests.org/en/latest/) - `pip install requests` в консоли
-3. Запросите архив с комментариями со [страницы безопасности](https://vk.com/data_protection?section=rules&scroll_to_archive=1), для ускорения процесса оставье только раздел с комментариями
+2. Установите [requests](https://docs.python-requests.org/en/latest/) - `pip install requests` в командной строке
+3. Запросите архив с комментариями со [страницы безопасности](https://vk.com/data_protection?section=rules&scroll_to_archive=1), для ускорения процесса оставьте только раздел с комментариями
 4. Поместите папку comments из архива в одну папку со скриптом
 5. Получите токен по [инструкции](https://vkhost.github.io/)
 6. Запустите скрипт. Если все сделано верно, то вы увидите количество загруженных комментариев, вставьте токен и нажмите Enter
